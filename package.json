@@ -1,0 +1,7 @@
+{
+  "name": "@catsheue/tiny",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Removes all spaces from a string",
+  "license": "MIT"
+}
